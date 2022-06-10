@@ -1,5 +1,17 @@
 .container {
   text-align: center;
+  
+}
+.formSend{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+form > input , button {
+  margin-left: 10px;
+  padding: 10px;
+}
+.contCards{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
